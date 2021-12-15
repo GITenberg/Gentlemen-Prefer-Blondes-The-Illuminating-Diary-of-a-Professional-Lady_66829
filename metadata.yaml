@@ -1,5 +1,8 @@
 _repo: Gentlemen-Prefer-Blondes-The-Illuminating-Diary-of-a-Professional-Lady_66829
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66829-h/images/cover.jpg
 creator:
   author:
     agent_name: Loos, Anita
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48921
     wikipedia: https://en.wikipedia.org/wiki/Anita_Loos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66829#Gentlemen-Prefer-Blondes-The-Illuminating-Diary-of-a-Professional-Lady
 gutenberg_issued: '2021-11-27'
 identifiers:
   gutenberg: '66829'
